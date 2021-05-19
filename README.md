@@ -7,6 +7,7 @@ The core part of the Quant SDK is the ability to automate trading strategies. Th
 
 The Quant SDK can be installed in the terminal as follows:
 
+testing
 ```
 pip install quant-sdk
 ```
